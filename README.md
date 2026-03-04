@@ -25,7 +25,4 @@ My current focus is building a **Telephone Directory** application. This project
 - **OS:** Windows 64-bit (Asus Vivobook)
 
 ## 💡 Why Python?
-I am learning Python to strengthen my logic for **AI Research** and to build tools that simplify complex tasks. Every script in this repository is a step toward becoming a better developer.
-
----
-“Done is better than perfect. Keep coding!”
+I am learning Python to strengthen my logic for **AI Research** and to build tools that simplify complex tasks. Every script in this repository is a step toward becoming a better developer. 
